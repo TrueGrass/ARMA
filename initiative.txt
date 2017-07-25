@@ -14,7 +14,7 @@ SECTION 2. Definitions.
 The following terms are defined for the purposes of this Amendment:
 (a) “Cultivation Location” means the physical address where marijuana is being grown for recreational purposes. 
 (b) “Driving Under the Influence of Marijuana” means operating a motorized vehicle on any public road, highway, or street when the Delta-9-tetrahydrocannabinol (Δ9THC) content of the operator's blood exceeds fourteen nanograms per milliliter (14ng/mL).
-(c) “Marijuana” or “Recreational Marijuana” mean any part of the cannabis plant (genus Cannabis), living or not, that when harvested in its mature plant stage contains greater than three tenths of one percent (0.3%), by dry weight, delta-9-tetrahydrocannabinol (Δ9THC), and is cultivated to be used as an intoxicant for recreational purposes.
+(c) “Marijuana” or “Recreational Marijuana” means any part of the cannabis plant (genus Cannabis), living or not, that when harvested in its mature plant stage contains greater than three tenths of one percent (0.3%), by dry weight, delta-9-tetrahydrocannabinol (Δ9THC), and is cultivated to be used as an intoxicant for recreational purposes.
 (d) “Marijuana Paraphernalia” means any equipment, utensils, products, and materials which are used, intended for use, or designed for use in planting, propagating, cultivating, growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing, testing, analyzing, packaging, repackaging, containing, or concealing recreational marijuana, or for ingesting, inhaling or otherwise introducing recreational marijuana into the human body.
 (e) “Mature Marijuana Plants” means recreational marijuana plants that are in the flowering stage and producing colas.
 (f) “Products Produced from Recreational Marijuana” or “Products Produced Therefrom” mean items and substances manufactured from recreational marijuana, containing more than three tenths of one percent (0.3%) delta-9-tetrahydrocannabinol (Δ9THC) and is used as an intoxicant for recreational purposes, and is consumed into the human body in the form of food, drink, vapor, or smoke.
@@ -101,7 +101,7 @@ For the following offenses upon conviction is guilty of a violation, a penalty n
 
 SECTION 10. Conflicting Laws; Severability.
 
-The provisions of this Amendment are hereby declared to be severable and self-executing, and except where otherwise indicated in this Amendment, shall supersede all conflicting state and local laws, charters, regulations, and any and all other provisions in conflict with this Amendment. If any provision of this Amendment, or the application of such provision to any person or circumstance, is declared invalid by any court for any reason, such declaration shall not affect the validity of the remaining portions of this Amendment.
+The provisions of this Amendment are hereby declared to be severable, and except where otherwise indicated in this Amendment, shall supersede all conflicting state and local laws, charters, regulations, and any and all other provisions in conflict with this Amendment. If any provision of this Amendment, or the application of such provision to any person or circumstance, is declared invalid by any court for any reason, such declaration shall not affect the validity of the remaining portions of this Amendment.
 
 
 # vim: tw=4 sw=4 noexpandtab
